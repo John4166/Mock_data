@@ -1,0 +1,72 @@
+{
+  "seller":[
+    {
+      "name":"seller_name_1",
+      "type":1,
+      "address":"广州市天河区",
+      "discount":"8.8折",
+      "score": 4.2,
+      "bulletin":"黄焖鸡米饭，色香味俱全",
+      "serviceScore": 4.1,
+      "foodScore": 4.3,
+      "support":[
+        {
+          "type":0,
+          "description": "在线支付满28减5"
+        },
+        {
+          "type":1,
+          "description": "VC无限橙果汁全场8折"
+        }
+      ]
+
+    },
+    {
+      "name":"seller_name_1",
+      "type":1,
+      "address":"广州市天河区",
+      "discount":"8.8折",
+      "score": 4.2,
+      "bulletin":"黄焖鸡米饭，色香味俱全",
+      "serviceScore": 4.1,
+      "foodScore": 4.3,
+      "support":[
+        {
+          "type":0,
+          "description": "在线支付满28减5"
+        },
+        {
+          "type":1,
+          "description": "VC无限橙果汁全场8折"
+        }
+      ]
+
+    }
+  ],
+  "foods":[
+    {
+      "name": "皮蛋瘦肉粥",
+      "price": 10,
+      "oldPrice": "",
+      "description": "咸粥"
+    },
+    {
+      "name": "扁豆焖面",
+      "price": 10,
+      "oldPrice": "",
+      "description": "面食"
+    }
+    ,{
+      "name": "皮蛋瘦肉粥",
+      "price": 10,
+      "oldPrice": "",
+      "description": "咸粥"
+    },
+    {
+      "name": "葱花饼",
+      "price": 10,
+      "oldPrice": "",
+      "description": ""
+    }
+  ]
+}
